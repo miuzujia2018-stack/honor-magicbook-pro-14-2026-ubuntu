@@ -193,6 +193,7 @@ out. [`patch/README.md`](patch/README.md) is the index.
 | | |
 |---|---|
 | [docs/INSTALL.md](docs/INSTALL.md) | every step, verification, other bootloaders |
+| [docs/deployments/ZQC-P-M1050-ubuntu-26.04.md](docs/deployments/ZQC-P-M1050-ubuntu-26.04.md) | field report: M1050 recovery on Ubuntu 26.04 kernel 7.0.0-38 |
 | [docs/hardware/](docs/hardware/) | one page per model: what it is, what works, what does not, and who found out |
 | [docs/TESTING.md](docs/TESTING.md) | what to try and what to report, if you have a model nobody here owns |
 | [docs/SUPPORT.md](docs/SUPPORT.md) | what "supported" means here, and where to take a question |
